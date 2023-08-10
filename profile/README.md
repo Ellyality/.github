@@ -10,3 +10,10 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+In the Setting -> Package Manager\
+Adding Ellyality scope registery to access packages
+
+* Name: Elly
+* URL: http://registry.npmjs.com
+* Scope(s): com.ellyality
