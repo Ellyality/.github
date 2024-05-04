@@ -3,7 +3,7 @@
 Here is ellyality Unity3D development center.\
 I will fork multiple useful package from other repo, and post useful information in discussion.
 
-The goal is enable to use Unity3D Built-in package manager quickly pull the prototype resources in and quickly built stuff for it.
+The goal is to use Unity3D Built-in package manager quickly pull the prototype resources in and quickly built stuff for it.
 
 Open any of the project and then:\
 In the Setting -> Package Manager\
